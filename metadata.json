@@ -2,5 +2,14 @@
   "name": "BUSDC",
   "symbol": "BUSDC",
   "description": "BUSDC Token",
-  "image": "https://i.ibb.co/ym5mknKK/4-BB236071-CD929-DF8-E86381-DEFF7-A134.jpg"
+  "image": "https://i.ibb.co/ym5mknKK/4-BB236071-CD929-DF8-E86381-DEFF7-A134.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/ym5mknKK/4-BB236071-CD929-DF8-E86381-DEFF7-A134.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
 }
